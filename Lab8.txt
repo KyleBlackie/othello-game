@@ -1,0 +1,1 @@
+./Debug/lab8part1.c.o ./Debug/lab8part2.c.o
